@@ -1,7 +1,12 @@
+body {
+  background-color: black;
+}
+
 canvas {
   display: none;
 }
 
 #clock {
-  
+  margin-left: 25vw;
+  width: 50vw;
 }
